@@ -8,7 +8,7 @@ package hospital1;
  *
  * @author cc_laboratorio
  */
-public class Hospital1 {
+public class Main {
 
     /**
      * @param args the command line arguments
