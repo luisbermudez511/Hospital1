@@ -10,4 +10,5 @@ package pkg_model;
  */
 public class Persona {
     private String nombre;
+    private int edad;
 }
