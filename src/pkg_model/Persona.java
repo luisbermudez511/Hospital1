@@ -9,5 +9,5 @@ package pkg_model;
  * @author cc_laboratorio
  */
 public class Persona {
-    
+    private String nombre;
 }
